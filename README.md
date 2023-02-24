@@ -1,16 +1,6 @@
 # dicappp
 
-A new Flutter project.
-
+Welcome to the Dicee Flutter project! This project is designed to help you create a mobile app that emulates rolling dice using the Flutter framework.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, you will be asked to create a mobile app that allows the user to roll dice by tapping on the screen. The app will display two dice and generate random numbers for each dice when the user taps on the screen. The app will also allow the user to shake their device to generate new random numbers for the dice.
